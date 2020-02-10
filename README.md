@@ -1,4 +1,5 @@
 React starter with Webpack with Babel
 
 - install npm
-- run webpack with `$ webpack`
+- Bundle new code with `$ webpack`
+- Launch the server with `$ webpack-dev-server`
