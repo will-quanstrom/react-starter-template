@@ -6,7 +6,7 @@
 - `localhost:8080` connects to the necessary endpoint
 
 ## Use ESLint
-1. un the following command:
+1. Run the following command:
 ```
 npm install eslint@4.13.1 -g
 npm install eslint@4.13.1 --save-dev
@@ -19,7 +19,7 @@ eslint --init
 
 3. Answer the questions then it automate `.eslintrc.json` file based on the answers.
 
-ESLint Rules: 
+### ESLint Rules in `.eslintrc.json`: 
 - `0` - off
 - `1` - warn
 - `2` - error
