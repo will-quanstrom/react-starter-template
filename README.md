@@ -26,4 +26,8 @@ ESLint Rules:
 
 _ESLint for indentation is removed from this template_
 
-4. Run ESLint with `npm run lint`
+- Run `npm run lint` to check the project's lint
+- Run `npm run lint --fix` to check and fix the project's lint
+
+
+
