@@ -24,4 +24,6 @@ ESLint Rules:
 - `1` - warn
 - `2` - error
 
-* ESLint for indentation is removed from this template.*
+_ESLint for indentation is removed from this template_
+
+4. Run ESLint with `npm run lint`
